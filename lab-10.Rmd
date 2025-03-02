@@ -5,7 +5,7 @@ date: "Insert date here"
 output: github_document
 ---
 
-### Load packages and data
+## Load packages and data
 
 ```{r load-packages, message=FALSE}
 library(tidyverse) 
@@ -13,15 +13,24 @@ library(tidymodels)
 library(openintro)
 ```
 
-### Exercise 1
+## Exercise 1
 
-Remove this text, and add your answer for Exercise 1 here.
+*Provide your answer here.*  
+Add code chunks as needed. Ensure code chunks are properly labeled without spaces.
+
+```{r exercise1_code}
+# Add your R code here
+```
+
+## Exercise 2
+
+*Provide your answer here.*  
 Add code chunks as needed.
-Don't forget to label your code chunk.
-Do not use spaces in code chunk labels.
 
-### Exercise 2
+```{r exercise2_code}
+# Add your R code here
+```
 
-...
+## Additional Exercises
 
-Add exercise headings as needed.
+*Repeat the format above for additional exercises.*
